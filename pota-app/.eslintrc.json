@@ -1,0 +1,7 @@
+ {
+  "root": true,  
+	"rules": {
+		"curly":"off",
+		"import/no-anonymous-default-export": "off"
+    }
+}
